@@ -46,7 +46,7 @@ Manufacture, Auto & Energy
 Technology
 Media
 Financial Services
-Retail
+## Retail
 Public Sector
 Education
 Health & Life Sciences
@@ -56,7 +56,7 @@ Help Center
 What’s New
 Resources Library
 Slack Blog
-Community
+## Community
 Customer Stories
 Events
 Developers
