@@ -64,3 +64,12 @@ Partners
 Partner Offers
 Slack Marketplace
 Slack Certigit
+## lips
+Apps & Integrations
+File Sharing
+Slack AI
+Agentforce
+Security
+Enterprise Key Management
+Slack Atlas
+See all features
